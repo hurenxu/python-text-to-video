@@ -29,13 +29,11 @@ This package depends on the following softwares:
 ## Built With
 
 * [Azure](https://www.azure.com) - The cognitive service used
-* [Web.py](https://www.webpy.org) - The web framework used
+* [Web.py](https://www.webpy.org) - The web server used
+* [Django] - The web framework used
 
 ## Authors
 
-* **Dingcheng Hu** - [UC San Diego]
-* **Pengyu Chen** - [UC San Diego]
-* **Wanhui Qiao** - [UC San Diego]
 * **Renxu Hu** - [UC San Diego]
 * **Zhibo Chen** - [UC San Diego]
 
